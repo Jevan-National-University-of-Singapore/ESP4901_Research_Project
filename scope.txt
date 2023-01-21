@@ -1,0 +1,14 @@
+solar pv microgrid whut kind of problem -interconnection with the grid.
+
+look into case studies with scenario more towards the technical factor.
+
+generator (gen set) 
+
+grid code
+- transmission grid code
+ (100 kv and above)
+- distribution grid code
+(lower than 100kv)
+
+Send William the requirements for the interim and final report
+- focus on the programming

@@ -1,0 +1,19 @@
+scenarios
+When V2G can be charge back to the grid
+Look into the objectives of the V2G papers
+
+ESS depreciation: break down the battery depreciation (lithium, LiFePo3, etc..)
+
+Chemistry	Shelf Life	Cycle Life
+Alkaline	5-10 Years	None
+Carbon Zinc	3-5 Years	None
+Lithium Non-Rechargeable	10-12 Years	None
+Nickel Cadmium	1.5-3 Years	1,000 +
+Nickel Metal Hydride	3-5 Years	700-1,000
+Lithium Rechargeable	2-4 Years	600-1,000
+Lead Acid	6 Months	Varies, see above
+
+
+Walk through the parameters of the python program
+
+User manual
